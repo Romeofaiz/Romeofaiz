@@ -10,3 +10,5 @@
   <a href="https://wa.me//+917020728211" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+[![ROMEK-XD-BOT](https://telegra.ph/file/308d449dd1d6e9dee4bca.jpg)]
